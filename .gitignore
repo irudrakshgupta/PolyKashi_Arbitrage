@@ -28,3 +28,4 @@ logs/
 # IDE
 .vscode/
 .idea/
+.claude/
